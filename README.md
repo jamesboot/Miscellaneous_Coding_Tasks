@@ -1,9 +1,12 @@
-# Python_Code_Challenges
+# Miscellaneous_Coding_Tasks
 
-This repository contains coding challenges/problems that I have completed. 
+## ❓What
+- This repository contains miscellaneous coding tasks
+- The majority of these tasks have been taken from leet code: https://leetcode.com/problemset/all/
+- All scripts contain instructions for the task in comments at the top of the script
+- Please note that the solutions here may not be the most effective or efficient solution, just my solution 🙂
+- Some tasks and solutions have been written in Python, and some in R
 
-Please note that the solutions here may not be the most effective or efficient solution, they are just the solution I came up with.
-
-The majority of these challenges/problems have been taken from leet code: https://leetcode.com/problemset/all/
-
-All scripts contain comments at the top regarding the aim of the task/instructions. 
+## 🎯 Aim
+- Improve coding proffiency in Python and R
+- Practice and hone problem solving 
